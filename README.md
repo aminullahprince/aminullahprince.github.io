@@ -28,7 +28,7 @@
 ## Masters Thesis
 ### North Hills East Resiliency Plan 
 The study assessed North Hills East's resilience across various factors such as demographics, housing and land use, transportation characteristics, environmental indicators, streetscape and greenery etc. It subsequently presented a strategic plan that the community can employ to reinforce its physical and societal infrastructure, enabling it to effectively navigate and thrive in the face of immediate and long-term challenges. Additionally, the study offered recommendations based on historical research, expert consultations, GIS data analysis, public meetings, and community input to address critical concerns.
-http://hdl.handle.net/20.500.12680/dv1401663
+(http://hdl.handle.net/20.500.12680/dv1401663)
 
 ## Projects
 ### Transportation Planning Decisions Impacts on Public Health Objectives
