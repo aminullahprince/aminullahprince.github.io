@@ -49,3 +49,6 @@ This study aims to examine the healthcare experience of Bangladeshi immigrants i
 
 ### Proximity Analysis and Service Population Calculation of Services (Hospital & Parks) in the City of Los Angeles
 ![Poster Presentation](/assets/img/Red and Gray Contemporary Editorial Landscape University Research Poster.jpg)
+
+
+[GIS, Photoshop and InDesign Portfolio](/assets/img/Final Project.pdf)
