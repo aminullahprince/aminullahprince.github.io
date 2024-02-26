@@ -43,6 +43,7 @@ Governments and automakers promote electric vehicles (EVs) as a crucial solution
 
 ### Equity Analysis in Access to Public Transport for Vulnerable Groups in the City of Los Angeles
 This article studies the equity of public transit accessibility of different cohorts including low-income populations, elderly, non-white, females, unemployed, and households without a car to jobs in the City of Los Angeles. Census tracts were categorized into two groups regarding the availability of bus stops and metro stations. Correlation and OLS Regression analysis were performed for determining the correlation between these cohorts and public transport usage and the significance of these correlations respectively. Correlation analysis results show that these groups have a significant correlation with public transport usage. However, the results of the OLS Regression indicate that gender and age are statistically significant whereas vehicle ownership is statistically insignificant. Future research should focus on public perception, conditions of connecting roads, different destinations, and more disadvantaged groups for more sensible results.
+![Poster Presentation](/assets/img/Red and Gray Contemporary Editorial Landscape University Research Poster.jpg)
 
 ### The Experience of Bangladeshi Immigrants with The Healthcare System in San Fernando Valley, Los Angeles, California
 This study aims to examine the healthcare experience of Bangladeshi immigrants in San Fernando Valley, Los Angeles, California. Research has shown that immigrants face various challenges with the healthcare system, and a lack of research exists on the experiences of Bangladeshi immigrants. The study aims to provide an overview of the challenges faced by Bangladeshi immigrants, such as language barriers, cultural disparities, accessibility to good quality health information, and mental health issues. The purpose of this grounded theory study is to explore the healthcare experience for Bangladeshi immigrants in San Fernando Valley, particularly the challenges they face, to inform improvement projects that can enhance healthcare services for everyone.
@@ -50,5 +51,3 @@ This study aims to examine the healthcare experience of Bangladeshi immigrants i
 ### Proximity Analysis and Service Population Calculation of Services (Hospital & Parks) in the City of Los Angeles
 ![Poster Presentation](/assets/img/Red and Gray Contemporary Editorial Landscape University Research Poster.jpg)
 
-
-[GIS, Photoshop and InDesign Portfolio](/assets/img/Final Project.pdf)
