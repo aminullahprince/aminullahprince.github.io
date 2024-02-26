@@ -25,6 +25,11 @@
 ### Rajdhani Unnayan Kartripakkha (RAJUK) (_May 2016 - June 2016_)
 - Preparing GIS map, land clearance procedure, detail area plan (DAP), learn the implementation of the town improvement act and Dhaka improvement trust rule.
 
+## Masters Thesis
+### North Hills East Resiliency Plan 
+The study assessed North Hills East's resilience across various factors such as demographics, housing and land use, transportation characteristics, environmental indicators, streetscape and greenery etc. It subsequently presented a strategic plan that the community can employ to reinforce its physical and societal infrastructure, enabling it to effectively navigate and thrive in the face of immediate and long-term challenges. Additionally, the study offered recommendations based on historical research, expert consultations, GIS data analysis, public meetings, and community input to address critical concerns.
+http://hdl.handle.net/20.500.12680/dv1401663
+
 ## Projects
 ### Transportation Planning Decisions Impacts on Public Health Objectives
 This article explores different public health impacts namely traffic crashes, vehicle pollution, physical activity, and lack of accessibility of transportation planning decisions. Transportation infrastructures, travel modes, and travel behavior can affect public health both positively and negatively again directly and indirectly. Generally, conventional planning tends to consider crashes and pollution but ignores the health problems due to lower active transportation and the additional impacts of increased vehicle mileage. Though health impacts are large compared with other impacts, yet other issues receive greater consideration causing the increased crashes or pollution. More comprehensive analysis of health impacts can change planning decisions. Integrating health objectives into transport planning can be one of the most cost-effective ways to improve public health, resulting in a more efficient and diverse transport system.
@@ -41,8 +46,4 @@ This article studies the equity of public transit accessibility of different coh
 ### The Experience of Bangladeshi Immigrants with The Healthcare System in San Fernando Valley, Los Angeles, California
 This study aims to examine the healthcare experience of Bangladeshi immigrants in San Fernando Valley, Los Angeles, California. Research has shown that immigrants face various challenges with the healthcare system, and a lack of research exists on the experiences of Bangladeshi immigrants. The study aims to provide an overview of the challenges faced by Bangladeshi immigrants, such as language barriers, cultural disparities, accessibility to good quality health information, and mental health issues. The purpose of this grounded theory study is to explore the healthcare experience for Bangladeshi immigrants in San Fernando Valley, particularly the challenges they face, to inform improvement projects that can enhance healthcare services for everyone.
 
-## Masters Thesis
-### North Hills East Resiliency Plan 
-The study assessed North Hills East's resilience across various factors such as demographics, housing and land use, transportation characteristics, environmental indicators, streetscape and greenery etc. It subsequently presented a strategic plan that the community can employ to reinforce its physical and societal infrastructure, enabling it to effectively navigate and thrive in the face of immediate and long-term challenges. Additionally, the study offered recommendations based on historical research, expert consultations, GIS data analysis, public meetings, and community input to address critical concerns.
 
-http://hdl.handle.net/20.500.12680/dv1401663
