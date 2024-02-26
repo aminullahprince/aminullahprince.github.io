@@ -1,5 +1,5 @@
 title: Aminullah Prince
-logo:assets/head_shot.png
+logo: /assets/head_shot.png
 #description: text below image
 show_downloads: false
 theme: jekyll-theme-minimal
