@@ -8,7 +8,7 @@
 
 ## Work Experience
 #### GIS Analyst 
-### ZAAG Systems Inc. (_December 2024 - Present_)
+### ZAAG Systems Inc. (_December 2023 - Present_)
 - Data collection and management, spatial analysis, mapping and visualization, scenario modeling, impact assessment, spatial planning and design, collaboration and communication, data visualization and reporting
 
 #### Planning Officer 
